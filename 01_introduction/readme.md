@@ -2,19 +2,25 @@
 
 ## **Basic I/O & Variables (1–15)**
 
-1. Print "Hello,World!"[hello_world.py](/01_introduction/hello_world.py).
-2. Print your name on one line and age on another line.
-3. Take user input and print: “Welcome, <name>!”.
-4. Take two numbers and print their sum.
-5. Take a number and print its square.
-6. Take two numbers and print their addition, subtraction, multiplication, and division.
-7. Take length and width and print the area of a rectangle.
+1. Print "Hello, World!" in the console. [[hello_world.py](./basic_io_&_variables/hello_world.py)]
+
+2. Take name and age as input and print them in separate lines. [[name_age.py](./basic_io_&_variables/name_age.py)]
+
+3. Write a Python program that asks the user for their name and prints a welcome message in the format: "Welcome, \<name> !". [[welcome_user.py](./basic_io_&_variables/welcome_user.py)]
+
+4. Write a Python program that takes two numbers as input from the user and prints their sum. [[sum_two_numbers.py](./basic_io_&_variables/sum_two_numbers.py)]
+
+5. Write a Python program that takes a number as input from the user and prints its square. [[square_number.py](./basic_io_&_variables/square_number.py)]
+
+6. Write a Python program that takes two numbers as input from the user and prints their addition, subtraction, multiplication, and division. [[arithmetic_operations.py](./basic_io_&_variables/arithmetic_operations.py)]
+
+7.Write a Python program that takes the length and width of a rectangle as input from the user and prints both its area and perimeter. [[rectangle_area_perimeter.py](./basic_io_&_variables/rectangle_area_perimeter.py)]
 8. Take radius and print area & circumference of a circle.
-9. Ask user for Celsius temperature and convert to Fahrenheit.
+9.  Ask user for Celsius temperature and convert to Fahrenheit.
 10. Ask user for kilometers and convert to miles.
 11. Take two integers and swap them.
 12. Create variables `a = 10`, `b = 20`. Print their sum without using `+`.
-13. Print a sentence with variables: “My name is ___ and I love ___.”
+13. Print a sentence with variables: “My name is **_ and I love _**.”
 14. Store 5 values in separate variables and print them in one line.
 15. Ask user for their birthday year and print their age.
 
