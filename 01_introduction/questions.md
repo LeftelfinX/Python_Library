@@ -2,7 +2,7 @@
 
 ## **Basic I/O & Variables (1–15)**
 
-1. Print your "Hello,World!".
+1. Print "Hello,World!".
 2. Print your name on one line and age on another line.
 3. Take user input and print: “Welcome, <name>!”.
 4. Take two numbers and print their sum.
