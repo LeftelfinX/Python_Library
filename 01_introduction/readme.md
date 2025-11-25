@@ -14,14 +14,22 @@
 
 6. Write a Python program that takes two numbers as input from the user and prints their addition, subtraction, multiplication, and division. [[arithmetic_operations.py](./basic_io_&_variables/arithmetic_operations.py)]
 
-7.Write a Python program that takes the length and width of a rectangle as input from the user and prints both its area and perimeter. [[rectangle_area_perimeter.py](./basic_io_&_variables/rectangle_area_perimeter.py)]
-8. Take radius and print area & circumference of a circle.
-9.  Ask user for Celsius temperature and convert to Fahrenheit.
-10. Ask user for kilometers and convert to miles.
-11. Take two integers and swap them.
+7. Write a Python program that takes the length and width of a rectangle as input from the user and prints both its area and perimeter. [[rectangle_area_perimeter.py](./basic_io_&_variables/rectangle_area_perimeter.py)]
+
+8. Take radius and print area & circumference of a circle. [[circle_properties.py](./basic_io_&_variables/circle_properties.py)]
+
+9. Take temperature in celsius as input and output the temperature in fahrenheit. [[celsius_to_fahrenheit.py](./basic_io_&_variables/celsius_to_fahrenheit.py)]
+
+10. Take distance in Kilometers and convert it to Miles. [[kms_to_miles.py](./basic_io_&_variables/kms_to%20_miles.py)]
+
+11. Take two integers and swap them using a third variable and with using a third variable. [[swap_two_number.py](./basic_io_&_variables/swap_two_numbers.py)]
+
 12. Create variables `a = 10`, `b = 20`. Print their sum without using `+`.
-13. Print a sentence with variables: “My name is **_ and I love _**.”
+
+13. Print a sentence with variables: “My name is \<name> and I love \<thing>.”. [[print_sentence.py](./basic_io_&_variables/print_sentence.py)]
+
 14. Store 5 values in separate variables and print them in one line.
+
 15. Ask user for their birthday year and print their age.
 
 ---

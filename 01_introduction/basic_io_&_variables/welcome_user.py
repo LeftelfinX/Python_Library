@@ -2,8 +2,6 @@
 
 # Source Code (python) ------------------------
 
-# Take name input from the user
 name = input("Enter your name: ")
 
-# Print the welcome message using the input name
 print(f"Welcome, {name} !")
